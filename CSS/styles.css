@@ -24,6 +24,7 @@ header{
   position: fixed;
   width: 100%;
   top: 0;
+  z-index: 9999;
 }
 
 header a{
@@ -73,5 +74,20 @@ header li{
 }
 
 .johnson-report-2{
+  margin: 20px 0px;
+}
+
+.texas{
+  float: left;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.jones{
+  margin: 20px 0px;
+}
+
+.jones-2{
   margin: 20px 0px;
 }
