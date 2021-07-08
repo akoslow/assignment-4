@@ -29,7 +29,14 @@ header{
 
 header a{
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
+  margin-left: 40px;
+  font-size: 20px;
+
+}
+
+header a:hover{
+  background: gray;
 }
 
 header li{
